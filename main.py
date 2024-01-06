@@ -1,5 +1,9 @@
 import os
+import warnings
 import pandas as pd
+
+
+warnings.filterwarnings('ignore')
 
 def combinedPositionTask1():
 
@@ -103,8 +107,9 @@ def combinedWinningLosingTask3():
             file.write(f"Total Pnl: {int(losingStreaks[i]['totalPnl'])}\n")
             
 
-
-# combinedPositionTask1()
-# combinedStatsTask2()
-combinedWinningLosingTask3()
+if __name__ == '__main__':
+    
+    combinedPositionTask1()
+    combinedStatsTask2()
+    combinedWinningLosingTask3()
 
