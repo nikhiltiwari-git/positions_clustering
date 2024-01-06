@@ -1,0 +1,15 @@
+Winning Streak 1:  8 Trades  2021-02-01 to 2021-02-02  Total Pnl: 37262
+Winning Streak 2:  7 Trades  2020-12-09 to 2020-12-10  Total Pnl: 22266
+Winning Streak 3:  8 Trades  2021-01-25 to 2021-01-25  Total Pnl: 20052
+Winning Streak 4:  6 Trades  2020-11-17 to 2020-11-17  Total Pnl: 19653
+Winning Streak 5:  6 Trades  2020-09-21 to 2020-09-22  Total Pnl: 19582
+Winning Streak 6:  6 Trades  2021-02-23 to 2021-02-23  Total Pnl: 18990
+Winning Streak 7:  6 Trades  2020-12-30 to 2020-12-31  Total Pnl: 16756
+
+Losing Streak 1:  10 Trades  2021-01-29 to 2021-02-01  Total Pnl: -15396
+Losing Streak 2:  8 Trades  2020-11-25 to 2020-11-26  Total Pnl: -14818
+Losing Streak 3:  11 Trades  2020-12-22 to 2020-12-23  Total Pnl: -14287
+Losing Streak 4:  11 Trades  2021-02-18 to 2021-02-18  Total Pnl: -12970
+Losing Streak 5:  8 Trades  2020-11-04 to 2020-11-04  Total Pnl: -12730
+Losing Streak 6:  13 Trades  2021-01-27 to 2021-01-28  Total Pnl: -12317
+Losing Streak 7:  9 Trades  2020-10-15 to 2020-10-16  Total Pnl: -12310
